@@ -1,2 +1,5 @@
 # Milestone Computer Science Society
-Here you can find all the code that we have written in class.
+
+This repository has been archived, it is now read-only.
+
+Please check the new repository [here](https://github.com/milestone-computer-science-society).
